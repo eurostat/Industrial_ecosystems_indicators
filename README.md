@@ -74,3 +74,6 @@ To maintain a different name of the output file in **cell [19]** we added 2011-2
 
 **we didn’t update kpi productivity because to update this table it is needed to update first "Total employment domestic concept.xlsx” (Eurostat-NA-employment.ipynb) which at the same time requires to update: “ratioCN-Persons employed - number.xlsx” (Eurostat-sbs-ratioc31-N80employment.ipynb) but the dynamics to update these files is very simmilar.
 
+
+This project has been implemented by GOPA Luxembourg. 
+
